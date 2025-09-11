@@ -31,6 +31,7 @@ function AdminDashboard() {
   const [isProductsOpen, setIsProductsOpen] = useState(false);
   const [isContentOpen, setIsContentOpen] = useState(false);
 
+  const hello = '1'
   // Check if a link is active
   const isActiveLink = (path) => {
     return location.pathname === path;
