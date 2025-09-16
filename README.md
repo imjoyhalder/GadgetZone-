@@ -4,7 +4,7 @@ ElectroShop is a full-stack e-commerce platform built for selling electronics su
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo - https://oryon-gadgets.firebaseapp.com/
 
 🔗 [Coming Soon](#)
 
@@ -55,11 +55,10 @@ ElectroShop is a full-stack e-commerce platform built for selling electronics su
 
 ### Others:
 - Stripe / SSLCommerz (Payments)
-- Vercel (Frontend Hosting)
-- Render / Railway (Backend Hosting)
+- Firebase (Frontend Hosting)
+- Varcel / Railway (Backend Hosting)
 - Firebase / Cloudinary (Image upload)
 
 ---
 
-## 📁 Project Structure (Basic)
 
