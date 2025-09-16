@@ -4,9 +4,9 @@ ElectroShop is a full-stack e-commerce platform built for selling electronics su
 
 ---
 
-## 🌐 Live Demo - https://oryon-gadgets.firebaseapp.com/
+## 🌐 Live Demo 
 
-🔗 [Coming Soon](#)
+🔗 https://oryon-gadgets.firebaseapp.com/
 
 ---
 
