@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="bg-[#0C1B2A] text-white py-10 px-6">
       <div className="grid gap-8 pb-8 mx-auto border-b border-gray-700 max-w-7xl md:grid-cols-3">
-     
+
         <div>
           <h3 className="mb-4 text-sm font-semibold">SUPPORT</h3>
           <div className="space-y-4">

@@ -59,7 +59,7 @@ export default function BannerCarousel() {
         onAutoplayTimeLeft={onAutoplayTimeLeft}
         className="overflow-hidden rounded-lg shadow-md"
       >
-        {bannerImgs.map((currBanner) => (
+        {/* {bannerImgs.map((currBanner) => (
           <SwiperSlide key={currBanner._id}>
             <img
               src={currBanner.url}
@@ -67,7 +67,29 @@ export default function BannerCarousel() {
               className="w-full h-[200px] sm:h-[300px] md:h-[400px] lg:h-[500px] object-cover"
             />
           </SwiperSlide>
-        ))}
+        ))} */}
+        <SwiperSlide >
+          <img
+            src='https://www.startech.com.bd/image/cache/catalog/home/banner/2025/deli-offer-982x500.webp'
+            alt='banner image'
+            className="w-full h-[200px] sm:h-[300px] md:h-[400px] lg:h-[500px] object-cover"
+          />
+        </SwiperSlide>
+        <SwiperSlide >
+          <img
+            src='https://www.startech.com.bd/image/cache/catalog/home/banner/2025/Sony-WH-1000XM6-Noise-Cancelling-Wireless-Headphone-(Official)-982x500.webp'
+            alt='banner image'
+            className="w-full h-[200px] sm:h-[300px] md:h-[400px] lg:h-[500px] object-cover"
+          />
+        </SwiperSlide>
+        <SwiperSlide >
+          <img
+            src='https://www.startech.com.bd/image/cache/catalog/home/banner/2025/home-appliance-banner-982x500.webp'
+            alt='banner image'
+            className="w-full h-[200px] sm:h-[300px] md:h-[400px] lg:h-[500px] object-cover"
+          />
+        </SwiperSlide>
+
 
         <div className="autoplay-progress" slot="container-end">
           <svg viewBox="0 0 48 48" ref={progressCircle}>

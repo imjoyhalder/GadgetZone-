@@ -34,7 +34,7 @@ function FeaturedProduct() {
 
   if (isLoading) {
     return (
-      <div className="w-11/12 mx-auto my-10">
+      <div className="w-11/12 mx-auto my-10 mt-[100px]">
         <h1 className="mb-4 text-lg font-bold text-center md:text-2xl">
           Featured Products
         </h1>

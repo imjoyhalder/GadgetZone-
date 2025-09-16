@@ -11,6 +11,7 @@ import {
   ArrowDown
 } from 'lucide-react';
 import { FaBox, FaMoneyBillWave, FaUserCheck } from 'react-icons/fa';
+import { Link } from 'react-router-dom';
 
 function AdminHome() {
   const [stats, setStats] = useState(null);
@@ -333,9 +334,9 @@ function AdminHome() {
         </div>
         
         <div className="px-6 py-4 border-t border-gray-200 bg-gray-50">
-          <a href="/dashboard/orders" className="text-sm font-medium text-blue-600 hover:text-blue-800">
+          <Link to="/dashboard/orders" className="text-sm font-medium text-blue-600 hover:text-blue-800">
             View all orders →
-          </a>
+          </Link>
         </div>
       </div>
 
