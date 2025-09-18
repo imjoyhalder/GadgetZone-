@@ -21,7 +21,8 @@ const ProductGrid = () => {
     const [priceRange, setPriceRange] = useState([0, 10000]);
     const [showFilters, setShowFilters] = useState(false);
     const [isFilterApplied, setIsFilterApplied] = useState(false);
-
+    
+    const hello = 'hello'
     // Fetch products from API
     useEffect(() => {
         const fetchProducts = async () => {
