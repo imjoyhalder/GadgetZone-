@@ -1,12 +1,12 @@
-# ⚡ GadgetZone – Electronics E-Commerce Website
+# ⚡ ORYON – Electronics E-Commerce Website
 
 ElectroShop is a full-stack e-commerce platform built for selling electronics such as PC components, mobile phones, laptops, and accessories. It features a customer-facing storefront and powerful admin dashboard for managing products, orders, and users.
 
 ---
 
-## 🌐 Live Demo - https://oryon-gadgets.firebaseapp.com/
+## 🌐 Live Demo 
 
-🔗 [Coming Soon](#)
+🔗 https://oryon-gadgets.firebaseapp.com/
 
 ---
 
