@@ -58,7 +58,7 @@ Check out the live version of the project here:
 - Stripe / SSLCommerz (Payments)
 - Firebase (Frontend Hosting)
 - Varcel / Railway (Backend Hosting)
-- Firebase / Cloudinary (Image upload)
+- Firebase / Cloudinary (Image upload).
 
 ---
 
