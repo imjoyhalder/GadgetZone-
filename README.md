@@ -55,7 +55,7 @@ Check out the live version of the project here:
 - Cloudinary (Image storage)
 
 ### Others:
-- Stripe / SSLCommerz (Payments)
+- SSLCommerz (Payments)
 - Firebase (Frontend Hosting)
 - Varcel / Railway (Backend Hosting)
 - Firebase / Cloudinary (Image upload).
