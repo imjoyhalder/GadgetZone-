@@ -12,10 +12,9 @@ Check out the live version of the project here:
 ---
 
 ## Admin access
----
+
   admin36@gmail.com
   @Admin36
----
 
 ## 📌 Features
 
