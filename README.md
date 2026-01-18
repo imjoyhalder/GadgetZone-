@@ -3,9 +3,9 @@
 ORYON is a full-stack e-commerce platform built for selling electronics such as PC components, mobile phones, laptops, and accessories. It features a customer-facing storefront and powerful admin dashboard for managing products, orders, and users.
 
 ---
-## Backend Code
+## Backend Code  (https://github.com/imjoyhalder/GadgetZone-Server)
 
-## 📦 Live Demo (https://github.com/imjoyhalder/GadgetZone-Server)
+## 📦 Live Demo
 
 Check out the live version of the project here:
 
